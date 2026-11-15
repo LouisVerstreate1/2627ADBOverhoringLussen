@@ -1,3 +1,12 @@
+/**
+ * Louis, dit is alles behalve een goeie toets
+ * Gen enkel lus, of stuk code is hier correct opgesteld.
+ * 
+ * AI kan je gebruiken als hulpmiddel tijdens het oefenen, maar niet als een noodzaak.
+ */
+
+
+
 //oef1 
 for( let i=0;i<= 16; i++){
 console.log(i);
